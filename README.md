@@ -1,0 +1,2 @@
+# MExeInfo
+Managed Executable Info
